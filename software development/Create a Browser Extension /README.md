@@ -1,5 +1,7 @@
 # Image Hider
 Image Hider is a simple Chrome extension that hides all images on the current page with a single click of a button.
+# Contributors 
+@vrichie
 
 # Installation
 To install Image Hider, follow these steps:
