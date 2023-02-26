@@ -1,6 +1,8 @@
 # Memory Game
 
 A simple memory game built with HTML, CSS, and JavaScript. The game board consists of a grid of cards that flip over when clicked. The goal of the game is to match pairs of cards with the same symbol.
+# Contributors
+@indakwa
 
 ## How to Play
 
