@@ -1,4 +1,8 @@
-
+# wordle
+ Wordle is a new, fun, and engaging app that comes with a puzzle daily to guess a five-letter word in 6 chances.
+ 
+# contributer
+@vrichie
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
