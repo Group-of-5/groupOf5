@@ -1,6 +1,7 @@
 # Random Number Generator
 This is a React component that generates a random number between 1 and 100 when the "Generate Random Number" button is clicked, and displays the number on the page.
-
+# Contributor
+@wanjikuJ
 # How to Run
 Clone the repository to your local machine.
 Navigate to the project directory and run npm install to install the required dependencies.
