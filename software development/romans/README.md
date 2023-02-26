@@ -1,5 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+# Numbers to Roman
+This is a simple react app to convert numbers to romans.
+# contributors
+@wanjikuJ
 ## Getting Started
 
 First, run the development server:
