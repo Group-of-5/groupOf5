@@ -1,5 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Url shortener
+This is a simple react app that maps long url to short urls
 
+# contributors
+@wanjikuJ
 ## Getting Started
 
 First, run the development server:
