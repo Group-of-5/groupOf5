@@ -1,0 +1,151 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  transition: .5s ease;
+}
+
+.forms-container{
+  display: flex;
+  gap: 4rem;
+  margin-top: 4rem;
+  padding-left: 4rem;
+}
+
+.app{
+  width: 100vw;
+  height: 120vh;
+  background: rgb(0, 0, 36);
+  color: rgb(198, 198, 240);
+  margin-top: -10rem;
+}
+
+.user-container{
+  padding: 6rem 0 2rem 8rem;
+}
+
+.title{
+  color: rgb(190, 190, 248);
+  margin-left: 4rem;
+}
+
+form h3{
+  font-size: 1.1rem;
+}
+
+form label{
+  display: block;
+}
+
+form{
+  margin-bottom: 3rem;
+}
+
+form input{
+  background: rgb(0, 0, 66);
+  color: rgb(174, 174, 228);
+  padding: .5rem 1.2rem;
+  border-radius: 2px;
+  border: 1px solid rgb(24, 24, 201);
+  margin-bottom: 2rem;
+}
+
+button{
+  background: rgb(89, 89, 250);
+  display: block;
+  width: 100px;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  margin-bottom: 4rem;
+  position: relative;
+  top: 2rem;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number]::after {
+  content: '\2191';
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #555;
+  cursor: pointer;
+  background: rgb(92, 92, 219);
+}
+
+input[type=number]::before {
+  content: '\2193';
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #555;
+  cursor: pointer;
+}
+
+
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #0d0369;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  font-weight: bold;
+  color: #555;
+  text-align-last: center;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background: rgb(0, 0, 99);
+}
+
+select::-ms-expand {
+  display: none;
+}
+
+select option {
+  font-weight: normal;
+  text-align: center;
+}
+
+select::-ms-expand {
+  display: none;
+}
+
+select option {
+  font-weight: normal;
+  text-align: center;
+}
+
+
+.card{
+  padding: 4rem 2rem;
+  width: 400px;
+  background-color: blue;
+}
+
+.card-body{
+  color: #333;
+}
+
+.row{
+  position: relative;
+  top: 4rem;
+}
+
+.row button{
+  width: 60%;
+}
